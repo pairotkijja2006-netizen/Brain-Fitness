@@ -1,6 +1,14 @@
-# 🧠 Brain Fitness Application
+# 🧠 Brain Fitness
 
-A Unity-based brain fitness application designed to help delay the onset of dementia through three memory-training games that engage both the left and right brain. The project was deployed at My Home Care Center in Bangkok, Thailand, where I collaborated with caretakers to introduce the game to elderly users.
+**Strengthening minds. One game at a time.**
+
+A Unity-based cognitive training application designed to support brain health among elderly individuals through three interactive memory-training games, gamified progression systems, and personalized performance tracking. Successfully deployed at My Home Care Center in Bangkok, Thailand.
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
